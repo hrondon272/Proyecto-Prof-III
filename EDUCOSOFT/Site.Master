@@ -38,7 +38,7 @@
                         <li><a runat="server" href="~/">Inicio</a></li>
                         <li><a runat="server" href="~/About">Acerca de</a></li>
                         <li><a runat="server" href="~/Contact">Contacto</a></li>
-                        <li><a runat="server" href="~/Contact">Iniciar Sesion</a></li>
+                        <li><a runat="server" href="~/Profesor">Docente</a></li>
                     </ul>
                 </div>
                     </div>

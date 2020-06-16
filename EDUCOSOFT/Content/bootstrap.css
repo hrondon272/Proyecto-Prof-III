@@ -4748,9 +4748,9 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 .navbar-inverse .navbar-toggle {
   border-color: #333;
     top: -3px;
-    left: -6px;
-    height: 12px;
-    width: 20px;
+    left: -10px;
+    height: 2px;
+    width: 16px;
 }
 .navbar-inverse .navbar-toggle:hover,
 .navbar-inverse .navbar-toggle:focus {
@@ -6917,3 +6917,4 @@ button.close {
         height: 80%;
     }
 }
+

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="EDUCOSOFT._Default" %>
+﻿<%@ Page Title="Inicio" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="EDUCOSOFT._Default" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
@@ -14,33 +14,24 @@
     <div class="row">
 
         <div class="col-md-4">
-            <h2>Getting started</h2>
+            <h2>Conoce Nuestro entorno Educativo</h2>
             <p>
-                ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
-            A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
-            </p>
+                A continuacion te presentamos una galeria de nuestro entorno universitario
+              </p>
             <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
-            </p>
-        </div>
-        <div class="col-md-4">
-            <h2>Get more libraries</h2>
-            <p>
-                NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
-            </p>
-            <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
+                <a class="btn btn-default" href="http://www.gcronico.unal.edu.co/galeria/">Abrir Galeria &raquo;</a>
             </p>
         </div>
         <div class="col-md-4">
-            <h2>Web Hosting</h2>
+            <h2>Nuestras Sedes</h2>
             <p>
-                You can easily find a web hosting company that offers the right mix of features and price for your applications.
+                Te invitamos a conocer nuestras sedes, ubicadas en diferentes puntos del territorio colombiano
             </p>
             <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
+                <a class="btn btn-default" href="https://www.altillo.com/universidades/universidades_colombia.asp">Sede principal &raquo;</a>
             </p>
         </div>
+        
         <br />
     </div>
     <p>&copy -<%: DateTime.Now.Date %></p>
